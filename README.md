@@ -15,6 +15,10 @@ Para executar o site, siga estas etapas:
 - Abra o arquivo index.html em um navegador da web.
 - Navegue pelo site usando os links no menu de navegação.
 
+## Tecnologias utilizadas
+- HTML
+- JavaScript
+
 ## Contribuindo com o desenvolvimento do site
 
 Esperamos que este site seja útil para ajudar você a controlar suas finanças pessoais e alcançar seus objetivos financeiros.
